@@ -20,18 +20,18 @@ i spend my nights switching between coding C, drawing cute stuff, playing games 
 
 **💻 programming:**  
 ![C](https://custom-icon-badges.demolab.com/badge/C-b0d0ff?style=plastic&logo=c&logoColor=2b2d42&labelColor=ffe7f3)
-![Shell](https://img.shields.io/badge/Shell-%23ffe7ba?style=for-the-badge&logo=gnu-bash&logoColor=2b2d42)
-![42](https://img.shields.io/badge/42-%23cdb4db?style=for-the-badge&logo=42&logoColor=2b2d42)
+![Shell](https://custom-icon-badges.demolab.com/badge/Shell-ffe7ba?style=plastic&logo=gnu-bash&logoColor=2b2d42&labelColor=fff6e3)
+![42](https://custom-icon-badges.demolab.com/badge/42-cdb4db?style=plastic&logo=42&logoColor=2b2d42&labelColor=f5e6fa)
 
 **🎨 art & design:**  
-![Procreate](https://img.shields.io/badge/Procreate-%23d7bbf5?style=for-the-badge&logo=procreate&logoColor=2b2d42)
-![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-%23bde0fe?style=for-the-badge&logoColor=2b2d42)
-![Photoshop](https://img.shields.io/badge/Photoshop-%23a2d2ff?style=for-the-badge&logo=adobe-photoshop&logoColor=2b2d42)
-![Aseprite](https://img.shields.io/badge/Aseprite-%23ffc8dd?style=for-the-badge&logo=aseprite&logoColor=2b2d42)
+![Procreate](https://custom-icon-badges.demolab.com/badge/Procreate-d7bbf5?style=plastic&logo=procreate&logoColor=2b2d42&labelColor=f8e8ff)
+![Clip Studio Paint](https://custom-icon-badges.demolab.com/badge/Clip%20Studio%20Paint-bde0fe?style=plastic&logoColor=2b2d42&labelColor=ebf6ff)
+![Photoshop](https://custom-icon-badges.demolab.com/badge/Photoshop-a2d2ff?style=plastic&logo=adobe-photoshop&logoColor=2b2d42&labelColor=e8f3ff)
+![Aseprite](https://custom-icon-badges.demolab.com/badge/Aseprite-ffc8dd?style=plastic&logo=aseprite&logoColor=2b2d42&labelColor=fff0f6)
 
 **🎬 video & motion:**  
-![After Effects](https://img.shields.io/badge/After%20Effects-%23caffbf?style=for-the-badge&logo=adobe-after-effects&logoColor=2b2d42)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%23ffd6a5?style=for-the-badge&logo=adobe-premiere-pro&logoColor=2b2d42)
+![After Effects](https://custom-icon-badges.demolab.com/badge/After%20Effects-caffbf?style=plastic&logo=adobe-after-effects&logoColor=2b2d42&labelColor=f2ffe6)
+![Premiere Pro](https://custom-icon-badges.demolab.com/badge/Premiere%20Pro-ffd6a5?style=plastic&logo=adobe-premiere-pro&logoColor=2b2d42&labelColor=fff1e3)
 
 ---
 
