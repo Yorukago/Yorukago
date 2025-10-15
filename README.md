@@ -1,16 +1,56 @@
-## Hi there 👋
+# 🌙 Hey there, I’m Yoru ✨  
 
-<!--
-**Yorukago/Yorukago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “trying to find something interesting to say about me - i failed :D”
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪐 About Me  
+heya, im **Yoru**, i have a bachelor in **illustration and arts** a student at **42 school**! I love cute things
+i spend my nights switching between coding C, drawing cute stuff, playing games and maybe learn new things... when i dont procrastinate
+
+---
+
+### 🌱 Currently Working On  
+- 🌕 **42 Common Core** - i literally just got in 
+- 🎨 **art / personal portfolio** - polishing up my style & preparing for my website...
+
+---
+
+### 🧠 Skills & Tools  
+
+**💻 Programming:**  
+- C  
+- Shell scripting  (i hate this sm)
+- Git / GitHub  
+
+**🎨 Art & Design:**  
+- Procreate  
+- Clip Studio Paint  
+- Photoshop  
+- Aseprite  
+
+**🎬 Video & Motion:**  
+- After Effects  
+- Premiere Pro  
+
+---
+
+### 🌠 Goals  
+- ✨ Pass the 42 Common Core  
+- 🖌️ Keep improving my art & anatomy  
+- 🌙 Finish my website & portfolio  
+
+---
+
+### ☁️ Find Me  
+*(Links coming soon!)*  
+- Portfolio: _[In progress]_
+- Discord: yorukago_ 
+
+---
+
+<div align="center">
+  
+ *"Even in the dark, the stars are still learning to shine."*   
+
+</div>
