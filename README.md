@@ -2,9 +2,7 @@
 
 > *illustrator | art student @ 42 school | night owl that loves cute things*
 
----
-
-### 🐰 about me  
+### ⭐ about me  
 heya! i'm **Yoru**, a small artist with a *bachelor in illustration and arts*, currently studying at *42 school*!  
 i spend most nights switching between coding in **C**, drawing cute things, and learning whatever i find interesting..
 (when procrastination doesn't win lmao)
