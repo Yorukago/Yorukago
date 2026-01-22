@@ -2,7 +2,7 @@
 
  *illustrator | art student @ 42 school | night owl that loves cute things*
 
-```python
+```ansi
 ╭╴ yoru at ~                                                                      23:14
 ╰─ nightfetch
 
