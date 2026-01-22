@@ -3,7 +3,7 @@
  *illustrator | art student @ 42 school | night owl that loves cute things*
 
 ```ruby
-╭╴ yoru at ~                                                                                              23:14
+╭╴ yoru at ~                                                                       23:14
 ╰─ nightfetch
 
                                             
